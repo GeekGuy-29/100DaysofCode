@@ -1,6 +1,8 @@
 # 100DaysofCode
 
-- Day 1 - Topics covered
+- Day 1
+    
+    Topics covered :- 
 
     - HTML Tags
     - Partial HTML attributes
