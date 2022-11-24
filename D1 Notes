@@ -1,0 +1,25 @@
+Day 1:
+
+Refer to devdocs to learn anything extra about the topics
+
+HTML Tags
+
+1 - Heading tags - Heading tags are mainly of six types i.e. form <h1> - <h6> in which, h1 is the largest font supported while h6 is the smallest.
+Once opened using <h2>, the tag has to closed uptil the point where the user wants the text to be enlarged and that is done by writing </h2>, "/" is added
+to depict that, the tag has ended and the text between the tags is to be modified.
+
+2 - Break line tag - The break line tag i.e. <br> is to break line at any point, similar to the heading tag, it doesn't require any closing code, it can be
+used at any point, even in between of texts.
+
+3 - Heading line tag - The heading line or <hr> tag is similar to the <br> tag meaning that, it also doesn't require a closing tag. The heading tag is just
+there to put a line over any text.
+
+4 - Centre tag - The <center> tag is used to align the text in center but it requires a closing tag, i.e. all the text between <center></center> will get aligned
+int the center.
+
+HTML Attributes
+
+HTML attributes are the keywords, used to modify the tags
+eg :- <hr color="red"> color is an attribute - in this command, the color of the line will become red.
+
+Implementation of the above info @ (https://codepen.io/GeekGuy-29/pen/RwJyRxq)
