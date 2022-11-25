@@ -17,3 +17,10 @@ Bpoiler plate code -->
 
 The above code is the boiler plate code for HTML which has to be present while writing any HTML code/website.
 To know more, refer to:- https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/
+
+
+Learned about HTML lists and built a personal portfolio website using the similar concepts 
+Link to today's work :- https://codepen.io/GeekGuy-29/pen/gOKzqZv
+
+<ul> stands for unordered lists i.e. bullet points
+<ol> stands for ordered lists i.e. Numbering
