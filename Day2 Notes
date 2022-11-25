@@ -1,0 +1,19 @@
+Day 2 notes:-
+
+Bpoiler plate code -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Hey!</h1>
+</body>
+</html>
+
+The above code is the boiler plate code for HTML which has to be present while writing any HTML code/website.
+To know more, refer to:- https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/
