@@ -16,5 +16,5 @@
     - HTML Boilerplate
     - HTML Lists
     - [Proof of work](https://codepen.io/GeekGuy-29/pen/gOKzqZv)
-    - [Notes]()
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Day2%20Notes)
   
