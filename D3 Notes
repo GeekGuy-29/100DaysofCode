@@ -1,2 +1,8 @@
 Day 3 Notes :
 
+1 - Image insertion - To insert an image in HTML , <img> tag is used, an image tag is an open ended tag i.e. i doesn't require a closing tag.
+To insert an image, syntac used is -- <img src="#"> wherein, src is the source/link to the image. In order to access the image, available locally, only the path to the file can be mentioned in the src.
+
+
+2 - Link Insertion - To insert a link in HTML, <a>#</a> tag is used. to use this tag, the syntax used is <a href="#">xyx</a> wherein , the link will get embedded in the text "xyz". 
+A file can also be linked by just entering the path of the file in the "" of href.

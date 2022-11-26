@@ -17,4 +17,13 @@
     - HTML Lists
     - [Proof of work](https://codepen.io/GeekGuy-29/pen/gOKzqZv)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Day2%20Notes)
+
+- Day 3
+    
+    Topics covered :- 
+
+    - HTML Image Insertion
+    - HTML Links & Anchor hooks
+    - [Proof of work](https://codepen.io/GeekGuy-29/pen/gOKzqZv)
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Day2%20Notes)
   
