@@ -32,7 +32,7 @@
     Topics covered :- 
 
     - HTML Tables
-    - [Proof of work 1](https://codepen.io/GeekGuy-29/pen/gOKzqZv)
+    - [Proof of work 1](https://github.com/GeekGuy-29/100DaysofCode/blob/main/100doc.html)
     - [Proof of work 2](https://codepen.io/GeekGuy-29/pen/gOKzqZv)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Day2%20Notes)
   
