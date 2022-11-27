@@ -1,0 +1,14 @@
+Day 4 Notes :- 
+
+1. HTML Tables:-
+
+The tables are the way of representing data in an orderly fashion, there are a few commands, using which, this can be implemented.
+
+a. <table> - This tag is used to create a table, it has to be closed by a </table> tag.
+b. <tr> - This tag is used to define the row of a table, it also has to be closed using the </tr> tag.
+c. <td> - This tag is used to edit the columns in the table. It is used withing the <tr> tag and has to be closed by the </td> tag.
+d. <th> - This tag is used to define a heading for the table. It should also be closed by the </th> tag.
+e. "border" - border attribute is used within the <table> tag in order to display the border of the table.
+like :- <table border="#">
+f. "cellsapcing" - cellspacing is used to space each cell in the table, it is also used within the <table> tag 
+like :- <table cellspacing="#">
