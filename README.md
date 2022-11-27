@@ -24,7 +24,7 @@
 
     - HTML Image Insertion
     - HTML Links & Anchor hooks
-    - [Proof of work](https://codepen.io/GeekGuy-29/pen/gOKzqZv)
+    - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/perprof.html)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D3%20Notes)
 
 - Day 4
