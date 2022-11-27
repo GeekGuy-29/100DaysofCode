@@ -33,7 +33,7 @@
 
     - HTML Tables
     - [Proof of work 1](https://github.com/GeekGuy-29/100DaysofCode/blob/main/100doc.html)
-    - [Proof of work 2](https://codepen.io/GeekGuy-29/pen/gOKzqZv)
+    - [Proof of work 2](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/perprof.html)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Day2%20Notes)
   
 
