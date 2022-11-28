@@ -24,7 +24,7 @@
 
     - HTML Image Insertion
     - HTML Links & Anchor hooks
-    - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/perprof.html)
+    - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/index.html)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D3%20Notes)
 
 - Day 4
@@ -33,8 +33,17 @@
 
     - HTML Tables
     - [Proof of work 1](https://github.com/GeekGuy-29/100DaysofCode/blob/main/100doc.html)
-    - [Proof of work 2](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/perprof.html)
+    - [Proof of work 2](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/index.html)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D4%20Notes)
+
+- Day 4
+    
+    Topics covered :- 
+
+    - HTML Forms
+    - [Proof of work 1](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/rmo.html)
+    - [Proof of work 2](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/index.html)
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D5%20Notes)
   
 
 
