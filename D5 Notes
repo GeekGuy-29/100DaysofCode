@@ -1,0 +1,10 @@
+Day 5 Notes:- 
+
+HTML Forms :- HTML forms is a way to create a form inside a webpage.
+there are 2 tags that form the base of the basic "form" format
+
+The tags are 
+ - Label > The lable tag is used to label a filed, to identify, what has to be given in that field.
+ - Input > The input tag creates a section in which, user can input according to the label.
+
+Besides, there are many attribute, which can be used to customise the form but, the form will be revisited after javascript lessons to fully make out of this feature.
