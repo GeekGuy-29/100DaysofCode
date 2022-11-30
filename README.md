@@ -50,6 +50,6 @@
     Topics covered :- 
 
     - CSS Introduction :- Inline, Internal and External CSS
-    - [Proof of work 1](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/rmo.html)
+    - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/CSS/index.css)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D6%20Notes)
 
