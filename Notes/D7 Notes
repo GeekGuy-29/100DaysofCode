@@ -1,0 +1,25 @@
+Day 7 Notes:-
+
+Topics learned CSS class and IDs
+Class:-
+ The class selector selects elements with a specific class attribute.
+ It matches all the HTML elements based on the contents of their class attribute.
+ The . symbol, along with the class name, is used to select the desired class.
+
+ Eg:-
+  .class-name {
+  /* Define properties here */
+  }
+ID
+ The ID selector matches an element based on the value of its id attribute. 
+ In order for the element to be selected, its ID attribute must exactly match the value given in the selector.
+ The # symbol and the id of the HTML element name are used to select the desired element.
+ 
+ Eg:-
+ #idname {
+    /* Define properties here */
+  }
+Difference B/W Class and ID
+ The difference between an ID and a class is that an ID is only used to identify one single element in our HTML.
+ IDs are only used when one element on the page should have a particular style applied to it. 
+ However, a class can be used to identify more than one HTML element.
