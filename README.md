@@ -52,4 +52,13 @@
     - CSS Introduction :- Inline, Internal and External CSS
     - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/CSS/index.css)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Notes/D6%20Notes)
+    
+- Day 7
+    
+    Topics covered :- 
+
+    - CSS Basics:- Classes and Id's
+    - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/CSS/index.css)
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Notes/D7%20Notes)
+
 
