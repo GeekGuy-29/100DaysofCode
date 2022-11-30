@@ -15,7 +15,10 @@ Tu use it,
 - Within the boilerplate, a <style> tag is created
 - Within the style tag, any default tag is modified
   - for eg:- <h1 color="red">
+  
+  ![Code Example](https://user-images.githubusercontent.com/74554911/204736812-88d48afe-20cc-42cd-a25c-3aa242813c94.png)
 
+  
 3. External CSS :- The last kind of styling is the external CSS in which, on the same level of the html file, a CSS file is created like ```xyz.css``` and then the file is linked in the boilerplate, using the code :- ```<link rel="stylesheet" href="CSS/xyz.css">```. Within that file, each tag can be modified just like shown in the above example.
 
 External CSS is used in common practice because, it reduces the complexity and makes the code look clean.
