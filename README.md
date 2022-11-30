@@ -16,7 +16,7 @@
     - HTML Boilerplate
     - HTML Lists
     - [Proof of work](https://codepen.io/GeekGuy-29/pen/gOKzqZv)
-    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Day2%20Notes)
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D2%20Notes)
 
 - Day 3
     
