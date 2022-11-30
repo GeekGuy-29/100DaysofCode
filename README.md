@@ -45,5 +45,11 @@
     - [Proof of work 2](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/index.html)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D5%20Notes)
   
+- Day 6
+    
+    Topics covered :- 
 
+    - CSS Introduction :- Inline, Internal and External CSS
+    - [Proof of work 1](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/rmo.html)
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D6%20Notes)
 

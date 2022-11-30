@@ -1,0 +1,21 @@
+Day 6 notes:-
+
+CSS stands for Cascading Style Sheets
+
+Topics learned :-
+
+1. Inline CSS :- Inline CSS is the styling a particular section or a tag by modifying it withing the tag itself.
+For eg:- <h1 color="#"> --> In this situation, although the styling is applied yet, the code gets messy due to which, the website gets prone to bugs/errors. Hence, this type of styling is rarely used.
+
+2. Internal CSS :- In this type of styling, the changes are done in the same file but, all the changes are implemented in the boilerplate code, rather than tags. with the help of internal css, each and every element can be modified without having to write extra code.
+
+Tu use it, 
+
+- The boilerplate code is accessed
+- Within the boilerplate, a <style> tag is created
+- Within the style tag, any default tag is modified
+  - for eg:- <h1 color="red">
+
+3. External CSS :- The last kind of styling is the external CSS in which, on the same level of the html file, a CSS file is created like ```xyz.css``` and then the file is linked in the boilerplate, using the code :- ```<link rel="stylesheet" href="CSS/xyz.css">```. Within that file, each tag can be modified just like shown in the above example.
+
+External CSS is used in common practice because, it reduces the complexity and makes the code look clean.
