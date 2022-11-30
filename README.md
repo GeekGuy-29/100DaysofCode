@@ -7,7 +7,7 @@
     - HTML Tags
     - Partial HTML attributes
     - [Proof of work](https://codepen.io/GeekGuy-29/pen/RwJyRxq)
-    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/D1%20Notes)
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Notes/D1%20Notes)
 
 - Day 2
     
