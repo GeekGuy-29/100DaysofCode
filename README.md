@@ -67,7 +67,7 @@
 
     - Favicons, HTML Divs
     - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/tree/main/Chiranjeev's%20Portfolio)
-    - [Notes]
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Notes/D8%20Notes)
 
 - Day 9
     
