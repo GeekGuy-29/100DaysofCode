@@ -66,7 +66,7 @@
     Topics covered :- 
 
     - Favicons, HTML Divs
-    - [Proof of work] 
+    - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/tree/main/Chiranjeev's%20Portfolio)
     - [Notes]
 
 - Day 9
