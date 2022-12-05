@@ -61,4 +61,19 @@
     - [Proof of work](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Personal%20Profile/CSS/index.css)
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Notes/D7%20Notes)
 
+- Day 8
+    
+    Topics covered :- 
+
+    - Favicons, HTML Divs
+    - [Proof of work] 
+    - [Notes]
+
+- Day 9
+    
+    Topics covered :- 
+
+    - The box model of CSS
+    - [Notes]
+
 

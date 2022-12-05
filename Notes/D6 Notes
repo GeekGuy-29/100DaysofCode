@@ -9,7 +9,7 @@ For eg:- <h1 color="#"> --> In this situation, although the styling is applied y
 
 2. Internal CSS :- In this type of styling, the changes are done in the same file but, all the changes are implemented in the boilerplate code, rather than tags. with the help of internal css, each and every element can be modified without having to write extra code.
 
-Tu use it, 
+To use it, 
 
 - The boilerplate code is accessed
 - Within the boilerplate, a <style> tag is created

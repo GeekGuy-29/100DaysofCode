@@ -1,0 +1,16 @@
+Day 8 Notes:-
+
+Topics Covered:-
+1. Favicons
+2. HTML Divs
+
+Favicons- Favicons are just icons which are displayed on the top of the tab column, it is a random icon which is oriented to the user.
+A favicon, also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file containing one or more small icons, associated with a particular website or web page.
+
+It is used in a website by just linking it in the body similarly like linking a style sheet and, the relation is set to be as "icon"
+
+Code:- <link rel="icon" href="favicon-32x32.png">
+
+HTML Divs:- HTML Divs, as the name specifies, it divides a web page into sections for anything, be it a heading , a paragraph etc. A user can summarise anything into a div and the items mentioned in a div will always be accessed together.
+
+To implement a div, a <div></div> tag is used.
