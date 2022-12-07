@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 .Top-Container{
@@ -21,7 +21,7 @@ body{
   }
   @keyframes spin {
     0% { content:"Chiranjeev"; }
-  
+    
     25% { content: "चिरंजीव"; }
   
     50% { content: "சிரஞ்சீவ்"; }
@@ -30,7 +30,18 @@ body{
   
     100% { content: "চিরঞ্জীব"; }
 }
-
+.Name{
+    position: relative;
+    top: 40%;
+    margin: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.Description{
+    position: relative;
+    top: 42%;
+    margin: 0%;
+}
 .Middle-Container{
     height: 200px;
     width: 200px;
