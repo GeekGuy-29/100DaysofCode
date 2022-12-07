@@ -75,5 +75,14 @@
 
     - The box model of CSS
     - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Notes/D9%20Notes)
+  
+- Day 10
+
+    Topics Covered :-
+    
+    - CSS Display Properties
+    - CSS Positioning
+    - [Notes](https://github.com/GeekGuy-29/100DaysofCode/blob/main/Notes/D10%20Notes)
+ 
 
 
