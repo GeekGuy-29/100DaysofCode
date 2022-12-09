@@ -1,5 +1,7 @@
 body{
     background-color: whitesmoke;
+    margin: 0;
+    padding: 0%;
 }
 
 .Top-Container{
@@ -7,40 +9,51 @@ body{
     align-items: center;
     justify-content: center;
     height: 600px;
-    width: 98%;
+    width: 100%;
 }
 
-#spin {
-    background: -webkit-linear-gradient(rgb(8, 187, 236), rgb(239, 35, 212));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-  #spin:after {
-    content:"";
-    animation: spin 10s linear infinite;
-  }
-  @keyframes spin {
-    0% { content:"Chiranjeev"; }
-    
-    25% { content: "चिरंजीव"; }
-  
-    50% { content: "சிரஞ்சீவ்"; }
-    
-    75% { content: "ਚਿਰੰਜੀਵ" }
-  
-    100% { content: "চিরঞ্জীব"; }
-}
 .Name{
+    margin: 0;
     position: relative;
     top: 40%;
     margin: 0%;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+    font-family: 'Kalam', cursive;
 }
+
+.hover-underline-animation {
+
+    background: -webkit-linear-gradient(rgb(8, 187, 236), rgb(239, 35, 212));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Kalam', cursive;
+    display: inline-block;
+    position: relative;
+
+  }
+  
+  .hover-underline-animation::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: pink;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .hover-underline-animation:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+
 .Description{
     position: relative;
     top: 42%;
     margin: 0%;
+    font-family: 'Unbounded', cursive;
 }
 .Middle-Container{
     height: 200px;
